@@ -22,5 +22,7 @@ Fitur:
 ### Setelah Tombol + Ditekan Dua Kali
 ![Setelah Ditambah](Screenshot%202026-09-14%20124043.png)
 
+### Laporan Praktikum
+📄 [Laporan Praktikum Modul 3 - 245150407111084 - Rajibin Putra Ilman](./Laporan%20Praktikum%20Modul%203%20-%20245150407111084%20-%20Rajibin%20Putra%20Ilman.docx.pdf)
 ## Repository
 https://github.com/rajibinptrilman911/MyApplication
